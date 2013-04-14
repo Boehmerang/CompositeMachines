@@ -260,3 +260,775 @@
 2013-04-14 09:08:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
 2013-04-14 09:08:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
 2013-04-14 09:08:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:15:26 [CLIENT] [INFO] Setting user: Player600
+2013-04-14 11:15:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:15:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:15:35 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:15:35 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:15:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:15:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:15:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:16:24 [CLIENT] [INFO] Setting user: Player717
+2013-04-14 11:16:24 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:16:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:16:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:16:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:16:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:16:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:16:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:27:08 [CLIENT] [INFO] Setting user: Player801
+2013-04-14 11:27:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:27:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:27:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/compositeheet.png, but that file does not exist. Ignoring.
+2013-04-14 11:27:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:27:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:27:15 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/compositeheet.png, but that file does not exist. Ignoring.
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:27:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:29:42 [CLIENT] [INFO] Setting user: Player909
+2013-04-14 11:29:42 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:29:46 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:29:47 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:29:47 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:29:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:33:14 [CLIENT] [INFO] Setting user: Player553
+2013-04-14 11:33:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:33:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:33:20 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:33:20 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:33:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:33:23 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:33:23 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:34:43 [CLIENT] [INFO] [CHAT] §cUsage: /time <set|add> <value>
+2013-04-14 11:34:47 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 11:45:35 [CLIENT] [INFO] Setting user: Player48
+2013-04-14 11:45:35 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:45:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:45:45 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:45:45 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:45:47 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:45:48 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:45:48 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:47:17 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 11:47:32 [CLIENT] [INFO] Setting user: Player347
+2013-04-14 11:47:32 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:47:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:47:41 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:47:41 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 11:47:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 11:47:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 11:47:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 12:06:50 [CLIENT] [INFO] Setting user: Player840
+2013-04-14 12:06:50 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 12:07:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 12:07:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 12:07:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 12:07:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 12:07:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 12:07:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 12:16:51 [CLIENT] [INFO] Setting user: Player849
+2013-04-14 12:16:51 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 12:16:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 12:17:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 12:17:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 12:17:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 12:17:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 12:17:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 12:18:18 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 12:32:03 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 12:32:08 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2013-04-14 13:07:21 [CLIENT] [INFO] Setting user: Player469
+2013-04-14 13:07:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:07:30 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:07:31 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:07:31 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:07:33 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:08:45 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 13:53:49 [CLIENT] [INFO] Setting user: Player981
+2013-04-14 13:53:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:53:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:54:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/acrylicGlassSheet.png, but that file does not exist. Ignoring.
+2013-04-14 13:54:00 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:54:00 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:54:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:54:02 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/acrylicGlassSheet.png, but that file does not exist. Ignoring.
+2013-04-14 13:54:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:54:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:57:51 [CLIENT] [INFO] Setting user: Player929
+2013-04-14 13:57:52 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:57:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:57:58 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:59:17 [CLIENT] [INFO] Setting user: Player417
+2013-04-14 13:59:17 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:59:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:59:23 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:59:23 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 13:59:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 13:59:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 13:59:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:01:20 [CLIENT] [INFO] Setting user: Player455
+2013-04-14 14:01:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:01:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:01:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:01:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:01:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:01:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:01:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:03:37 [CLIENT] [INFO] Setting user: Player632
+2013-04-14 14:03:37 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:03:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:03:43 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:03:43 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:03:45 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:09:17 [CLIENT] [INFO] Setting user: Player889
+2013-04-14 14:09:17 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:09:22 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:09:24 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:09:24 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:09:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:09:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:09:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:16:53 [CLIENT] [INFO] Setting user: Player26
+2013-04-14 14:16:54 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:17:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:17:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:17:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:17:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:17:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:17:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:17:48 [CLIENT] [INFO] Setting user: Player848
+2013-04-14 14:17:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:17:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:17:55 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:17:55 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:17:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:17:58 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:17:58 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:23:06 [CLIENT] [INFO] Setting user: Player147
+2013-04-14 14:23:06 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:23:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:23:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:23:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:23:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:23:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:23:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:28:10 [CLIENT] [INFO] Setting user: Player768
+2013-04-14 14:28:10 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:28:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:28:17 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:28:18 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:28:18 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:33:24 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 14:40:22 [CLIENT] [INFO] Setting user: Player287
+2013-04-14 14:40:22 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:40:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:40:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:40:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:40:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:40:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:40:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:41:19 [CLIENT] [INFO] Setting user: Player954
+2013-04-14 14:41:19 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:41:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:41:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:41:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:41:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:41:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:41:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:41:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:41:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:41:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:41:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:41:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:41:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:42:30 [CLIENT] [INFO] Setting user: Player889
+2013-04-14 14:42:30 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:42:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:42:36 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:42:36 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:42:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:43:52 [CLIENT] [INFO] Setting user: Player736
+2013-04-14 14:43:52 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:43:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:43:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:43:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:44:02 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:44:03 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:44:03 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:52:36 [CLIENT] [INFO] Setting user: Player139
+2013-04-14 14:52:36 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:52:40 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:52:41 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:52:41 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:52:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:52:43 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:52:43 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:53:13 [CLIENT] [INFO] Setting user: Player487
+2013-04-14 14:53:13 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:53:18 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:53:20 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:53:21 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:53:21 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:54:27 [CLIENT] [INFO] Setting user: Player941
+2013-04-14 14:54:27 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:54:32 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:54:33 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:54:33 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:54:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:54:36 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:54:36 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:57:48 [CLIENT] [INFO] Setting user: Player285
+2013-04-14 14:57:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:57:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:57:54 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:57:54 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:57:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:59:09 [CLIENT] [INFO] Setting user: Player165
+2013-04-14 14:59:09 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:59:14 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:59:14 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 14:59:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 14:59:17 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 14:59:17 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 14:59:56 [CLIENT] [INFO] Setting user: Player222
+2013-04-14 14:59:56 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:00:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:00:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:00:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:00:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:00:05 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:00:05 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:04:47 [CLIENT] [INFO] Setting user: Player438
+2013-04-14 15:04:47 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:04:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:04:53 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:04:53 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:04:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:04:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:04:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:06:16 [CLIENT] [INFO] Setting user: Player592
+2013-04-14 15:06:16 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:06:21 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:06:23 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:06:23 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:06:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:06:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:06:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:08:32 [CLIENT] [INFO] Setting user: Player609
+2013-04-14 15:08:32 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:08:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:08:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:08:37 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:08:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:08:39 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:08:39 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:09:53 [CLIENT] [INFO] Setting user: Player151
+2013-04-14 15:09:53 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:09:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/acrylicGlass.png, but that file does not exist. Ignoring.
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:09:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:09:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:09:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:10:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/acrylicGlass.png, but that file does not exist. Ignoring.
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:10:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:10:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:10:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:10:47 [CLIENT] [INFO] Setting user: Player233
+2013-04-14 15:10:47 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:10:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:10:53 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:10:53 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:10:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:10:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:10:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:17:47 [CLIENT] [INFO] Setting user: Player694
+2013-04-14 15:17:47 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:18:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:08 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:18:08 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:18:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:18:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:18:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt

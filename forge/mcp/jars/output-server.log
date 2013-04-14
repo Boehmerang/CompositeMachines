@@ -99,3 +99,374 @@
 2013-04-14 09:09:01 [SERVER] [INFO] Preparing start region for level 0
 2013-04-14 09:09:02 [SERVER] [INFO] Preparing spawn area: 69%
 2013-04-14 09:09:03 [SERVER] [INFO] Player912[/127.0.0.1:0] logged in with entity id 70 at (-66.59326336348173, 4.0, -1628.5907638398469)
+2013-04-14 11:15:43 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:15:43 [SERVER] [INFO] Generating keypair
+2013-04-14 11:15:44 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:15:45 [SERVER] [INFO] Preparing spawn area: 15%
+2013-04-14 11:15:46 [SERVER] [INFO] Preparing spawn area: 68%
+2013-04-14 11:15:47 [SERVER] [INFO] Player600[/127.0.0.1:0] logged in with entity id 102 at (-66.59326336348173, 4.0, -1628.5907638398469)
+2013-04-14 11:16:14 [SERVER] [INFO] Stopping server
+2013-04-14 11:16:14 [SERVER] [INFO] Saving players
+2013-04-14 11:19:15 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:19:15 [SERVER] [INFO] Generating keypair
+2013-04-14 11:19:16 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:19:17 [SERVER] [INFO] Preparing spawn area: 49%
+2013-04-14 11:19:18 [SERVER] [INFO] Preparing spawn area: 93%
+2013-04-14 11:19:19 [SERVER] [INFO] Player174[/127.0.0.1:0] logged in with entity id 102 at (-66.02300538859751, 4.0, -1625.8987507480579)
+2013-04-14 11:19:28 [SERVER] [INFO] Stopping server
+2013-04-14 11:27:51 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:27:51 [SERVER] [INFO] Generating keypair
+2013-04-14 11:27:51 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:27:52 [SERVER] [INFO] Preparing spawn area: 75%
+2013-04-14 11:27:54 [SERVER] [INFO] Player801[/127.0.0.1:0] logged in with entity id 102 at (-66.02300538859751, 4.0, -1625.8987507480579)
+2013-04-14 11:27:57 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-14 11:28:01 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:28:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:28:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:28:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 11:29:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:29:54 [SERVER] [INFO] Generating keypair
+2013-04-14 11:29:55 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:29:56 [SERVER] [INFO] Preparing spawn area: 71%
+2013-04-14 11:29:56 [SERVER] [INFO] Player909[/127.0.0.1:0] logged in with entity id 102 at (-66.02300538859751, 4.0, -1625.8987507480579)
+2013-04-14 11:30:03 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:30:03 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:30:03 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:30:03 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 11:34:08 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:34:08 [SERVER] [INFO] Generating keypair
+2013-04-14 11:34:09 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:34:10 [SERVER] [INFO] Preparing spawn area: 38%
+2013-04-14 11:34:11 [SERVER] [INFO] Preparing spawn area: 94%
+2013-04-14 11:34:12 [SERVER] [INFO] Player553[/127.0.0.1:0] logged in with entity id 102 at (-65.62352504698183, 4.0, -1626.007682380317)
+2013-04-14 11:34:16 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:34:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:34:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:34:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 11:34:47 [SERVER] [INFO] [Player553: Set the time to 1]
+2013-04-14 11:45:06 [SERVER] [INFO] Stopping server
+2013-04-14 11:46:04 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:46:04 [SERVER] [INFO] Generating keypair
+2013-04-14 11:46:06 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:46:07 [SERVER] [INFO] Preparing spawn area: 20%
+2013-04-14 11:46:08 [SERVER] [INFO] Preparing spawn area: 93%
+2013-04-14 11:46:09 [SERVER] [INFO] Player48[/127.0.0.1:0] logged in with entity id 33 at (-69.76673836906842, 4.0, -1620.6568898836479)
+2013-04-14 11:47:14 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:47:14 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:47:15 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:47:15 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 11:47:17 [SERVER] [INFO] [Player48: Set the time to 1]
+2013-04-14 11:47:22 [SERVER] [INFO] Stopping server
+2013-04-14 11:47:58 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 11:47:58 [SERVER] [INFO] Generating keypair
+2013-04-14 11:47:59 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 11:48:00 [SERVER] [INFO] Preparing spawn area: 31%
+2013-04-14 11:48:01 [SERVER] [INFO] Preparing spawn area: 86%
+2013-04-14 11:48:02 [SERVER] [INFO] Player347[/127.0.0.1:0] logged in with entity id 100 at (-62.516803637973254, 4.0, -1623.888192853877)
+2013-04-14 11:48:05 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-04-14 11:48:06 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:48:06 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:48:06 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:48:06 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 11:58:38 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 11:58:38 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 11:58:38 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 11:58:38 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:05:39 [SERVER] [INFO] Stopping server
+2013-04-14 12:05:39 [SERVER] [INFO] Saving players
+2013-04-14 12:07:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 12:07:26 [SERVER] [INFO] Generating keypair
+2013-04-14 12:07:28 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 12:07:29 [SERVER] [INFO] Preparing spawn area: 24%
+2013-04-14 12:07:30 [SERVER] [INFO] Preparing spawn area: 71%
+2013-04-14 12:07:31 [SERVER] [INFO] Player840[/127.0.0.1:0] logged in with entity id 29 at (-62.71826669301501, 4.0, -1625.276195809061)
+2013-04-14 12:07:36 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:07:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:07:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:07:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:07:45 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:07:45 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:07:45 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:07:45 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:11:27 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:11:27 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:11:27 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:11:27 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:16:37 [SERVER] [INFO] Stopping server
+2013-04-14 12:16:37 [SERVER] [INFO] Saving players
+2013-04-14 12:16:37 [SERVER] [INFO] Saving worlds
+2013-04-14 12:16:37 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:17:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 12:17:47 [SERVER] [INFO] Generating keypair
+2013-04-14 12:17:48 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 12:17:49 [SERVER] [INFO] Preparing spawn area: 11%
+2013-04-14 12:17:50 [SERVER] [INFO] Preparing spawn area: 68%
+2013-04-14 12:17:51 [SERVER] [INFO] Player849[/127.0.0.1:0] logged in with entity id 101 at (-78.69488514155336, 4.0, -1618.8177058375043)
+2013-04-14 12:17:55 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:17:55 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:17:55 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:17:55 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:18:14 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:18:14 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:18:14 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:18:14 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:18:15 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:18:15 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:18:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:18:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:18:18 [SERVER] [INFO] [Player849: Set the time to 1]
+2013-04-14 12:27:16 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:27:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:27:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:27:16 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:27:42 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:27:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:27:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:27:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:27:51 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:27:51 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:27:51 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:27:51 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:28:02 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:28:02 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:28:02 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:28:02 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:28:13 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:28:13 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:28:13 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:28:13 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:32:03 [SERVER] [INFO] [Player849: Set the time to 1]
+2013-04-14 12:32:08 [SERVER] [INFO] [Player849: Set the time to 12500]
+2013-04-14 12:33:43 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:33:43 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:33:43 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:33:43 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:35:42 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 12:35:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 12:35:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 12:35:42 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 12:53:59 [SERVER] [INFO] Stopping server
+2013-04-14 12:53:59 [SERVER] [INFO] Saving players
+2013-04-14 13:07:51 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 13:07:51 [SERVER] [INFO] Generating keypair
+2013-04-14 13:07:51 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 13:07:52 [SERVER] [INFO] Preparing spawn area: 88%
+2013-04-14 13:07:53 [SERVER] [INFO] Player469[/127.0.0.1:0] logged in with entity id 107 at (-71.84649618488169, 4.0, -1614.013667839607)
+2013-04-14 13:08:01 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 13:08:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 13:08:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 13:08:01 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 13:08:24 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 13:08:24 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 13:08:24 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 13:08:24 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 13:08:45 [SERVER] [INFO] [Player469: Set the time to 1]
+2013-04-14 13:54:18 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 13:54:18 [SERVER] [INFO] Generating keypair
+2013-04-14 13:54:41 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 13:54:42 [SERVER] [INFO] Preparing spawn area: 81%
+2013-04-14 13:54:43 [SERVER] [INFO] Player981[/127.0.0.1:0] logged in with entity id 37 at (-71.48577865544252, 4.0, -1610.7376676502436)
+2013-04-14 13:54:44 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 13:54:44 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 13:54:44 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 13:54:44 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 13:58:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 13:58:29 [SERVER] [INFO] Generating keypair
+2013-04-14 13:58:30 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 13:58:31 [SERVER] [INFO] Preparing spawn area: 88%
+2013-04-14 13:58:31 [SERVER] [INFO] Player929[/127.0.0.1:0] logged in with entity id 33 at (-71.21492732640581, 4.0, -1611.3492702496928)
+2013-04-14 13:58:32 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 13:58:32 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 13:58:32 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 13:58:32 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 13:58:56 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 13:58:56 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 13:58:56 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 13:58:56 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 13:58:57 [SERVER] [INFO] Stopping server
+2013-04-14 13:59:44 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 13:59:44 [SERVER] [INFO] Generating keypair
+2013-04-14 13:59:45 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 13:59:46 [SERVER] [INFO] Preparing spawn area: 71%
+2013-04-14 13:59:47 [SERVER] [INFO] Player417[/127.0.0.1:0] logged in with entity id 33 at (-72.26500760785362, 4.0, -1613.8666562898557)
+2013-04-14 14:00:04 [SERVER] [INFO] Stopping server
+2013-04-14 14:00:04 [SERVER] [INFO] Saving players
+2013-04-14 14:01:48 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:01:48 [SERVER] [INFO] Generating keypair
+2013-04-14 14:01:48 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:01:49 [SERVER] [INFO] Preparing spawn area: 70%
+2013-04-14 14:01:50 [SERVER] [INFO] Player455[/127.0.0.1:0] logged in with entity id 34 at (-72.28482752723787, 4.0, -1613.691703599034)
+2013-04-14 14:04:06 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:04:06 [SERVER] [INFO] Generating keypair
+2013-04-14 14:04:07 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:04:08 [SERVER] [INFO] Preparing spawn area: 55%
+2013-04-14 14:04:09 [SERVER] [INFO] Player632[/127.0.0.1:0] logged in with entity id 106 at (-71.03050326114315, 4.0, -1614.959327516336)
+2013-04-14 14:04:10 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 14:04:10 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:04:10 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:04:10 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:04:34 [SERVER] [INFO] Stopping server
+2013-04-14 14:04:34 [SERVER] [INFO] Saving players
+2013-04-14 14:04:34 [SERVER] [INFO] Saving worlds
+2013-04-14 14:04:34 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:04:34 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:04:34 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:09:32 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:09:32 [SERVER] [INFO] Generating keypair
+2013-04-14 14:09:33 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:09:34 [SERVER] [INFO] Preparing spawn area: 50%
+2013-04-14 14:09:35 [SERVER] [INFO] Player889[/127.0.0.1:0] logged in with entity id 102 at (-71.4303749755029, 4.0, -1613.7818614355504)
+2013-04-14 14:09:50 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 14:09:50 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:09:50 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:09:50 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:17:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:17:09 [SERVER] [INFO] Generating keypair
+2013-04-14 14:17:10 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:17:11 [SERVER] [INFO] Preparing spawn area: 61%
+2013-04-14 14:17:12 [SERVER] [INFO] Player26[/127.0.0.1:0] logged in with entity id 103 at (-76.84768085926379, 4.0, -1611.3259190771737)
+2013-04-14 14:18:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:18:19 [SERVER] [INFO] Generating keypair
+2013-04-14 14:18:20 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:18:21 [SERVER] [INFO] Preparing spawn area: 52%
+2013-04-14 14:18:22 [SERVER] [INFO] Player848[/127.0.0.1:0] logged in with entity id 102 at (-72.96800927685803, 4.0, -1612.3049424997416)
+2013-04-14 14:23:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:23:31 [SERVER] [INFO] Generating keypair
+2013-04-14 14:23:34 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:23:35 [SERVER] [INFO] Preparing spawn area: 88%
+2013-04-14 14:23:36 [SERVER] [INFO] Player147[/127.0.0.1:0] logged in with entity id 108 at (-72.04133707639282, 4.0, -1611.62807776105)
+2013-04-14 14:32:59 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:32:59 [SERVER] [INFO] Generating keypair
+2013-04-14 14:33:03 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:33:04 [SERVER] [INFO] Preparing spawn area: 39%
+2013-04-14 14:33:05 [SERVER] [INFO] Preparing spawn area: 88%
+2013-04-14 14:33:06 [SERVER] [INFO] Player768[/127.0.0.1:0] logged in with entity id 107 at (-71.39395967651116, 4.0, -1610.1926933127347)
+2013-04-14 14:33:08 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 14:33:08 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:33:08 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:33:08 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:33:24 [SERVER] [INFO] [Player768: Set the time to 1]
+2013-04-14 14:33:33 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 14:33:33 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:33:33 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:33:33 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:33:35 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 14:33:35 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:33:35 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:33:35 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:33:36 [SERVER] [INFO] Stopping server
+2013-04-14 14:33:36 [SERVER] [INFO] Saving players
+2013-04-14 14:33:36 [SERVER] [INFO] Saving worlds
+2013-04-14 14:33:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 14:33:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 14:33:36 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 14:40:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:40:41 [SERVER] [INFO] Generating keypair
+2013-04-14 14:40:42 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:40:43 [SERVER] [INFO] Preparing spawn area: 52%
+2013-04-14 14:40:44 [SERVER] [INFO] Preparing spawn area: 98%
+2013-04-14 14:40:45 [SERVER] [INFO] Player287[/127.0.0.1:0] logged in with entity id 99 at (-69.581975094093, 4.0, -1614.8762097744616)
+2013-04-14 14:41:35 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:41:35 [SERVER] [INFO] Generating keypair
+2013-04-14 14:41:35 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:41:36 [SERVER] [INFO] Preparing spawn area: 50%
+2013-04-14 14:41:38 [SERVER] [INFO] Player954[/127.0.0.1:0] logged in with entity id 94 at (-72.26451976126204, 4.0, -1613.8658446275963)
+2013-04-14 14:42:45 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:42:45 [SERVER] [INFO] Generating keypair
+2013-04-14 14:42:46 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:42:47 [SERVER] [INFO] Preparing spawn area: 67%
+2013-04-14 14:42:48 [SERVER] [INFO] Player889[/127.0.0.1:0] logged in with entity id 83 at (-72.27792828969616, 4.0, -1613.6587855109308)
+2013-04-14 14:43:45 [SERVER] [INFO] Stopping server
+2013-04-14 14:43:45 [SERVER] [INFO] Saving players
+2013-04-14 14:44:07 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:44:07 [SERVER] [INFO] Generating keypair
+2013-04-14 14:44:08 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:44:09 [SERVER] [INFO] Preparing spawn area: 60%
+2013-04-14 14:44:10 [SERVER] [INFO] Player736[/127.0.0.1:0] logged in with entity id 83 at (-72.46599141775431, 4.0, -1614.2902888984866)
+2013-04-14 14:48:48 [SERVER] [INFO] Stopping server
+2013-04-14 14:52:46 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:52:46 [SERVER] [INFO] Generating keypair
+2013-04-14 14:52:46 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:52:47 [SERVER] [INFO] Preparing spawn area: 90%
+2013-04-14 14:52:48 [SERVER] [INFO] Player139[/127.0.0.1:0] logged in with entity id 36 at (-71.82406928650975, 4.0, -1613.3172377604087)
+2013-04-14 14:53:26 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:53:26 [SERVER] [INFO] Generating keypair
+2013-04-14 14:53:26 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:53:27 [SERVER] [INFO] Preparing spawn area: 71%
+2013-04-14 14:53:28 [SERVER] [INFO] Player487[/127.0.0.1:0] logged in with entity id 38 at (-72.29948511695565, 4.0, -1614.0855796495064)
+2013-04-14 14:54:19 [SERVER] [INFO] Stopping server
+2013-04-14 14:54:19 [SERVER] [INFO] Saving players
+2013-04-14 14:59:28 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 14:59:28 [SERVER] [INFO] Generating keypair
+2013-04-14 14:59:28 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 14:59:29 [SERVER] [INFO] Preparing spawn area: 74%
+2013-04-14 14:59:30 [SERVER] [INFO] Player165[/127.0.0.1:0] logged in with entity id 33 at (-69.37206991674165, 6.0, -1613.6351927448768)
+2013-04-14 15:00:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:00:47 [SERVER] [INFO] Generating keypair
+2013-04-14 15:00:48 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:00:49 [SERVER] [INFO] Preparing spawn area: 69%
+2013-04-14 15:00:49 [SERVER] [INFO] Player222[/127.0.0.1:0] logged in with entity id 34 at (-70.39488500888939, 6.0, -1613.3163520675878)
+2013-04-14 15:05:16 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:05:16 [SERVER] [INFO] Generating keypair
+2013-04-14 15:05:17 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:05:18 [SERVER] [INFO] Preparing spawn area: 55%
+2013-04-14 15:05:19 [SERVER] [INFO] Player438[/127.0.0.1:0] logged in with entity id 103 at (-68.7004887552886, 4.0, -1616.6595557068142)
+2013-04-14 15:06:08 [SERVER] [INFO] Stopping server
+2013-04-14 15:06:08 [SERVER] [INFO] Saving players
+2013-04-14 15:06:29 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:06:29 [SERVER] [INFO] Generating keypair
+2013-04-14 15:06:30 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:06:31 [SERVER] [INFO] Preparing spawn area: 42%
+2013-04-14 15:06:32 [SERVER] [INFO] Preparing spawn area: 96%
+2013-04-14 15:06:33 [SERVER] [INFO] Player592[/127.0.0.1:0] logged in with entity id 108 at (-70.46395451781974, 4.0, -1617.2583075119)
+2013-04-14 15:08:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:08:41 [SERVER] [INFO] Generating keypair
+2013-04-14 15:08:42 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:08:43 [SERVER] [INFO] Preparing spawn area: 77%
+2013-04-14 15:08:44 [SERVER] [INFO] Player609[/127.0.0.1:0] logged in with entity id 107 at (-70.46395451781974, 4.0, -1617.2583075119)
+2013-04-14 15:09:29 [SERVER] [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: net/minecraft/world/chunk/storage/AnvilChunkLoaderPending
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75824_a(AnvilChunkLoader.java:155)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.saveChunk(AnvilChunkLoader.java:129)
+	at net.minecraft.world.gen.ChunkProviderServer.safeSaveChunk(ChunkProviderServer.java:232)
+	at net.minecraft.world.gen.ChunkProviderServer.saveChunks(ChunkProviderServer.java:284)
+	at net.minecraft.world.WorldServer.saveAllChunks(WorldServer.java:903)
+	at net.minecraft.server.MinecraftServer.saveAllWorlds(MinecraftServer.java:344)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:576)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:127)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:468)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.world.chunk.storage.AnvilChunkLoaderPending
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:211)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 10 more
+Caused by: java.lang.NullPointerException
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:200)
+	... 12 more
+2013-04-14 15:09:29 [SERVER] [INFO] Stopping server
+2013-04-14 15:09:29 [SERVER] [INFO] Saving players
+2013-04-14 15:10:11 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:10:12 [SERVER] [INFO] Generating keypair
+2013-04-14 15:10:12 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:10:13 [SERVER] [INFO] Preparing spawn area: 56%
+2013-04-14 15:10:14 [SERVER] [INFO] Player151[/127.0.0.1:0] logged in with entity id 107 at (-69.2370974731, 4.0, -1610.7196232690626)
+2013-04-14 15:11:45 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:11:45 [SERVER] [INFO] Generating keypair
+2013-04-14 15:11:45 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:11:46 [SERVER] [INFO] Preparing spawn area: 60%
+2013-04-14 15:11:47 [SERVER] [INFO] Player233[/127.0.0.1:0] logged in with entity id 104 at (-71.10318702873701, 4.0, -1610.3593575406198)
+2013-04-14 15:11:49 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 15:11:49 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 15:11:49 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 15:11:49 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
+2013-04-14 15:18:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.1
+2013-04-14 15:18:54 [SERVER] [INFO] Generating keypair
+2013-04-14 15:18:55 [SERVER] [INFO] Preparing start region for level 0
+2013-04-14 15:18:56 [SERVER] [INFO] Preparing spawn area: 34%
+2013-04-14 15:18:57 [SERVER] [INFO] Preparing spawn area: 96%
+2013-04-14 15:18:58 [SERVER] [INFO] Player694[/127.0.0.1:0] logged in with entity id 103 at (-71.10318702873701, 4.0, -1610.3593575406198)
+2013-04-14 15:18:58 [SERVER] [INFO] Saving and pausing game...
+2013-04-14 15:18:58 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Overworld
+2013-04-14 15:18:59 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/Nether
+2013-04-14 15:18:59 [SERVER] [INFO] Saving chunks for level 'CompositeMachinery'/The End
