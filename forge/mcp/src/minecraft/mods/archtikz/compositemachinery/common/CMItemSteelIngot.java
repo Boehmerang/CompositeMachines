@@ -10,19 +10,15 @@ import net.minecraft.item.ItemStack;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-public class ItemStrPlastic extends Item {
-
-	String texture;	
+public class CMItemSteelIngot extends Item {
 	
-	public ItemStrPlastic(int par1, String texture) {
+	String texture;
+	
+	public CMItemSteelIngot(int par1, String texture) {
 		super(par1);
 		setCreativeTab(CreativeTabs.tabMaterials);
 		this.texture = texture;
 	}
-	
-    /*public void addInformation(ItemStack par1ItemStack, EntityPlayer par2Player, List par3List, boolean par4Boolean){ //Additional info (eg. the names of music discs)
-		par3List.add("");
-	}*/
 
 	@SideOnly(Side.CLIENT)
 	public void updateIcons(IconRegister ir)

@@ -12,11 +12,11 @@ import net.minecraft.world.IBlockAccess;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-public class BlockAcrylicGlass extends Block {
+public class CMBlockAcrylicGlass extends Block {
 
 	String texture;
 	
-	public BlockAcrylicGlass(int i, Material par1material, String texture) {
+	public CMBlockAcrylicGlass(int i, Material par1material, String texture) {
 		super(i , Material.glass);
 		setCreativeTab(CreativeTabs.tabBlock);
 		this.texture = texture;
@@ -37,7 +37,7 @@ public class BlockAcrylicGlass extends Block {
 	@SideOnly(Side.CLIENT)
 	public int getRenderBlockPass() //Put 0 for fully transparent or opaque blocks, and 1 for semi-transparent
 	{
-         return 0;
+         return 1;
 	}
 
 	public boolean isOpaqueCube() //Tells the game if the block is transparent

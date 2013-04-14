@@ -1032,3 +1032,1407 @@
 2013-04-14 15:18:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
 2013-04-14 15:18:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
 2013-04-14 15:18:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:50:56 [CLIENT] [INFO] Setting user: Player823
+2013-04-14 15:50:56 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:00 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:51:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:51:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:51:02 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:02 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:51:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:51:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:51:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:52:00 [CLIENT] [INFO] Setting user: Player155
+2013-04-14 15:52:00 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:04 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:52:05 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:52:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:53:44 [CLIENT] [INFO] Setting user: Player766
+2013-04-14 15:53:44 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:48 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:53:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:50 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:53:50 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:53:50 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/electricFurnace.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:50 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:50 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/coalGenerator.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:50 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreTin.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:50 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/batteryBox.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/oreCopper.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_output.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_side.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/copperWire.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/basiccomponents/textures/blocks/machine_input.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:53:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:53:52 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:53:52 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:54:51 [CLIENT] [INFO] Setting user: Player528
+2013-04-14 15:54:51 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 15:54:55 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:54:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 15:54:58 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 16:07:42 [CLIENT] [INFO] [CHAT] Changing to clear weather
+2013-04-14 16:07:45 [CLIENT] [INFO] [CHAT] Set the time to 0
+2013-04-14 16:10:34 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-04-14 16:11:51 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-04-14 16:53:28 [CLIENT] [INFO] Setting user: Player304
+2013-04-14 16:53:28 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 16:53:36 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 16:53:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 16:53:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/steelIngot.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 16:53:37 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 16:53:38 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 16:53:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/items/steelIngot.png, but that file does not exist. Ignoring.
+2013-04-14 16:53:39 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 16:53:39 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 16:57:49 [CLIENT] [INFO] Setting user: Player736
+2013-04-14 16:57:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 16:57:55 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 16:57:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 16:57:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 16:57:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 16:57:58 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 16:57:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 16:57:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 16:57:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 16:57:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:00:28 [CLIENT] [INFO] Setting user: Player943
+2013-04-14 17:00:28 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 17:00:34 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:00:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:00:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:35 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:00:35 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:00:37 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:00:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:00:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:00:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:02:26 [CLIENT] [INFO] Setting user: Player910
+2013-04-14 17:02:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 17:02:37 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:02:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:39 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:02:39 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:02:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:02:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:02:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:36:19 [CLIENT] [INFO] Setting user: Player105
+2013-04-14 17:36:19 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:36:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:36:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:36:29 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:36:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:36:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:36:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:37:32 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 17:38:12 [CLIENT] [INFO] [CHAT] Changing to clear weather
+2013-04-14 17:44:02 [CLIENT] [INFO] [CHAT] Saved screenshot as 2013-04-14_17.44.02.png
+2013-04-14 17:44:07 [CLIENT] [INFO] [CHAT] Saved screenshot as 2013-04-14_17.44.06.png
+2013-04-14 17:57:07 [CLIENT] [INFO] [CHAT] Changing to clear weather
+2013-04-14 17:57:09 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 17:59:03 [CLIENT] [INFO] Setting user: Player680
+2013-04-14 17:59:03 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:59:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:10 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:59:10 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 17:59:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:02:01 [CLIENT] [INFO] Setting user: Player72
+2013-04-14 18:02:01 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:02:07 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:02:07 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:02:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:02:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:02:11 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:02:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:02:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:02:12 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:02:12 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:15:20 [CLIENT] [INFO] Setting user: Player513
+2013-04-14 18:15:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:15:25 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:15:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:15:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:15:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:15:28 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:15:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:15:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:15:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:15:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:18:02 [CLIENT] [INFO] Setting user: Player981
+2013-04-14 18:18:02 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:18:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:18:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:18:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:18:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:18:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:19:30 [CLIENT] [INFO] Setting user: Player813
+2013-04-14 18:19:30 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:19:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:36 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:19:36 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:19:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:19:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:19:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:33:06 [CLIENT] [INFO] Setting user: Player747
+2013-04-14 18:33:06 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:33:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:33:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:14 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:33:14 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:33:16 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:35:37 [CLIENT] [INFO] Setting user: Player627
+2013-04-14 18:35:37 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:35:41 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:35:42 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:35:44 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:42:15 [CLIENT] [INFO] Setting user: Player179
+2013-04-14 18:42:15 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:42:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:42:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:42:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:57:08 [CLIENT] [INFO] Setting user: Player817
+2013-04-14 18:57:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:57:12 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:57:12 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:57:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:12 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:13 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:57:13 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:57:14 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:57:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:57:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:57:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:57:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:58:29 [CLIENT] [INFO] Setting user: Player617
+2013-04-14 18:58:29 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 18:58:36 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:58:36 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:58:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:36 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:37 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:58:37 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:58:39 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 18:58:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 18:58:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 18:58:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 18:59:04 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 19:00:50 [CLIENT] [INFO] Setting user: Player249
+2013-04-14 19:00:50 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:00:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:00:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:00:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:00:59 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:01:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:01:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:01:51 [CLIENT] [INFO] Setting user: Player728
+2013-04-14 19:01:51 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 19:01:55 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:01:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:01:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:01:58 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:01:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:35:22 [CLIENT] [INFO] Setting user: Player994
+2013-04-14 19:35:22 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineside.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:35:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:35:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineside.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:35:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:35:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:35:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:55:37 [CLIENT] [INFO] Setting user: Player80
+2013-04-14 19:55:37 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 19:55:42 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineside.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:43 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:43 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:55:43 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:55:43 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:45 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:55:45 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:55:46 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineside.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:46 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 19:55:47 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 19:59:11 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-04-14 19:59:21 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-04-14 20:08:48 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 20:26:19 [CLIENT] [INFO] Setting user: Player577
+2013-04-14 20:26:19 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:26:24 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:25 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:26:25 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:26:27 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:27 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/oilFabricator.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:26:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:26:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:26:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:27:33 [CLIENT] [INFO] [CHAT] Set the time to 1
+2013-04-14 20:27:47 [CLIENT] [INFO] Setting user: Player482
+2013-04-14 20:27:47 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:27:52 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:27:53 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:53 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:54 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:54 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:54 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:54 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:27:54 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:27:55 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:27:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:27:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:33:20 [CLIENT] [INFO] Setting user: Player20
+2013-04-14 20:33:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:33:25 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:33:26 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:27 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:33:27 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:33:28 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:33:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:33:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:33:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:36:10 [CLIENT] [INFO] Setting user: Player565
+2013-04-14 20:36:10 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:36:15 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:36:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:36:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:16 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:36:16 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:36:18 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:36:18 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:36:18 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:36:19 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:36:19 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:44:00 [CLIENT] [INFO] Setting user: Player342
+2013-04-14 20:44:00 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:44:06 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:44:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:44:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:07 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:44:07 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:44:09 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:44:10 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:44:10 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:46:30 [CLIENT] [INFO] Setting user: Player801
+2013-04-14 20:46:30 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:46:34 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:46:35 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:35 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:36 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:46:36 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:46:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:46:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:46:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:48:44 [CLIENT] [INFO] Setting user: Player895
+2013-04-14 20:48:44 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:48:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:48:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:48:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:48:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:50:20 [CLIENT] [INFO] Setting user: Player592
+2013-04-14 20:50:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:50:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:50:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:50:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:50:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:50:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:54:21 [CLIENT] [INFO] Setting user: Player914
+2013-04-14 20:54:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:54:25 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:54:25 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:54:25 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:26 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:54:26 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:54:27 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:54:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:59:34 [CLIENT] [INFO] Setting user: Player447
+2013-04-14 20:59:34 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-04-14 20:59:38 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:59:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:39 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:59:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 20:59:40 [CLIENT] [WARNING] TextureManager.createTexture called for file mods/archtikz/textures/blocks/machineoutput.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/plate.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/motor.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/battery.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/infiniteBattery.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/wrench.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustSteel.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingot.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/circuit.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/dustBronze.png, but that file does not exist. Ignoring.
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-04-14 20:59:41 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-04-14 21:00:27 [CLIENT] [INFO] [CHAT] Set the time to 1

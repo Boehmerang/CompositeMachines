@@ -1,10 +1,13 @@
 package mods.archtikz.compositemachinery.common;
 
+import universalelectricity.components.common.block.BlockBasicMachine;
 import mods.archtikz.compositemachinery.client.ClientPacketHandler;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.OreDictionary;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Instance;
 import cpw.mods.fml.common.SidedProxy;
@@ -22,10 +25,11 @@ serverPacketHandlerSpec = @SidedPacketHandler(channels = {}, packetHandler = Ser
 @Mod(modid="CMV1.0",name="CompositeMachinery",version="1.0") //Gives Forge extra info about your mod
 public class CMBase {
 
-	public static Item compositeSheet = new ItemCmpSheet(800, "compositeSheet").setUnlocalizedName("compositeSheet");
-	public static Item acrylicGlassSheet = new ItemStrPlastic(801, "acrylicGlassSheet").setUnlocalizedName("acrylicGlassSheet");
-	public static Block acrylicGlass = new BlockAcrylicGlass(802, Material.glass, "acrylicGlass").setUnlocalizedName("acrylicGlass").setHardness(1.5F).setResistance(500F);
-	//public static Block oilFabricator = new Block
+	public static Item compositeSheet = new CMItemCmpSheet(800, "compositeSheet").setUnlocalizedName("compositeSheet");
+	public static Item acrylicGlassSheet = new CMItemStrPlastic(801, "acrylicGlassSheet").setUnlocalizedName("acrylicGlassSheet");
+	public static Item steelIngot = new CMItemSteelIngot(804, "steelIngot").setUnlocalizedName("steelIngot");
+	public static Block acrylicGlass = new CMBlockAcrylicGlass(802, Material.glass, "acrylicGlass").setUnlocalizedName("acrylicGlass").setHardness(1.5F).setResistance(500F);
+	public static Block oilFabricator = new CMBasicMachine(803, 4).setCreativeTab(CreativeTabs.tabRedstone).setHardness(1F).setUnlocalizedName("oilFabricator");
 	
 	@Instance("CMV1.0")
 	public static CMBase instance = new CMBase();
@@ -38,6 +42,7 @@ public class CMBase {
 		gameRegistry();
 		languageRegistry();
 		recipeRegistry();
+		oreDictionaryAdder();
 	}
 
 	public void recipeRegistry() {
@@ -53,14 +58,22 @@ public class CMBase {
 		LanguageRegistry.addName(compositeSheet, "Composite Sheet");
 		LanguageRegistry.addName(acrylicGlassSheet, "Acrylic Glass Sheet");
 		LanguageRegistry.addName(acrylicGlass, "Acrylic Glass");
+		LanguageRegistry.addName(oilFabricator, "Oil Fabricator");
+		LanguageRegistry.addName(steelIngot, "Steel Ingot");
 	}
 
 	public void gameRegistry() {
 		GameRegistry.registerItem(compositeSheet, "Composite Sheet");
 		GameRegistry.registerItem(acrylicGlassSheet, "Acrylic Glass Sheet");
+		GameRegistry.registerItem(steelIngot, "Steel Ingot");
 		GameRegistry.registerBlock(acrylicGlass, "Acrylic Glass");
+		GameRegistry.registerBlock(oilFabricator, "Oil Fabricator");
 	}
 
+	public void oreDictionaryAdder() {
+		OreDictionary.registerOre("ingotSteel", steelIngot);
+	}
+	
 	@Mod.PreInit
 	public void PreInit(FMLPreInitializationEvent event) {
 
