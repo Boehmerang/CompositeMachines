@@ -6,7 +6,6 @@
 LICENSE.txt
 CHANGELOG
 
-!/src/
-/src/minecraft/*
-!/src/minecraft/mods/*
+/forge/mcp/src/minecraft/*
+!forge/mcp/src/minecraft/mods/*
 !/README
