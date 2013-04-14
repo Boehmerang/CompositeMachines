@@ -1,0 +1,124 @@
+Changelog:
+
+Build 1.5.1-7.7.0.610
+	LexManos: Fix NPEs when modders stupidly register null texture names.
+
+Build 1.5.1-7.7.0.609
+	LexManos: Fixed issue with Event.hasAnnotation ignoring it's parameter. And cached its values for potential performance gain. Closes #482
+
+Build 1.5.1-7.7.0.608
+	cpw: Damn you python and your tab obsession!
+
+Build 1.5.1-7.7.1.611
+	cpw: Changelog fixup
+
+Build 1.5.1-7.7.1.611
+	jesse
+		Entity Extended Properties Changes
+		Adds IExtendedEntityProperties interface, which specifies three methods
+		that are needed:  Init, Save, and Load.
+		Adds the EntityConstructing event, which is called during the
+		constructor of Entity.  It is needed there so that the reference is in
+		place during the ReadNBT call.
+		Adds hooks into Entity that allow registration of
+		IExtendedEntityProperties classes, as well as saving and loading to NBT.
+	jesse
+		Brewing Stand Changes
+		Added an event on potion ingredient applied.  Event contains the item
+		stacks of each of the potions being brewed as well as any remaining
+		ingredients.
+		Changed TileEntityBrewingStand and SlotBrewingStandPotion to look for
+		instanceof ItemPotion rather than potion.itemID
+	jesse
+		Player Flyable Fall Event
+		Adds an event to EntityPlayer that is posted on player fall when the
+		player has flight capabilities.
+	cpw: Fix itemframe render bug
+	cpw: Add in block rotation support. It supports most vanilla blocks (hopefully), logs should be added soon.
+	jesse
+		Access Transformer Changes
+		AT changes and corresponding class changes.
+		Additions (all made public):
+		EntityLiving.targetTasks
+		PotionHelper.potionRequirements
+		PotionHelper.potionAmplifiers
+		PotionEffect.duration
+		Potion.setIconIndex
+		Item.setPotionEffect
+		Block.blockHardness
+		Block.blockResistance
+	jesse
+		Enderman Teleport Event
+		New event when an enderman teleports that allows the teleport location
+		to either be modified or completely cancelled.
+	jesse
+		Enderman attackEntityFrom changed
+		Changed so that if the teleport fails upon being attacked, Endermen will
+		take damage as normal.
+	jesse
+		Ender Teleport Changes
+		Renamed Ender Teleport Event and added it in to ender pearls.
+	jesse
+		quick bugfix in entityenderman
+		reversed boolean check on event result
+	cpw
+		Updated FML:
+		MinecraftForge/FML@2d368c4c2eb6b4e0bb60757b6e1679c23aaad9db Itemstacks in the GameRegistry (manual registration by mods)
+	cpw
+		Updated FML:
+		MinecraftForge/FML@5e1949eb0e3a43d3ec6c710289532d93f6819934 Clone the itemstack, and allow for passing in a stacksize
+	cpw
+		Updated FML:
+		MinecraftForge/FML@ede93d438f2b5fab92cd6a459247ca158354e430 Validate supplied stack size
+		MinecraftForge/FML@d73ac867df775174dafdd2da193fabd7c3e7407e Add a mechanism to dump the registry- useful for mod developers.
+	cpw
+		Updated FML:
+		MinecraftForge/FML@82bc9f1b35f5d51a722d294dd252e6bab4d54fa4 Add some information, and a log message letting you know it worked
+	cpw: Update patches!
+	cpw: Re-enable changelog? Hopefully...
+
+Build 1.5.1-7.7.0.605
+	cpw: Fix AT config for texturemap
+
+Build 1.5.1-7.7.0.604
+	cpw
+		Allow itemstack sensitive damage computation for attacks. Should allow
+		storing data in the nbt :)
+
+Build 1.5.1-7.7.0.603
+	cpw
+		Updated FML:
+		MinecraftForge/FML@d9db27275ea06d37ae75e201140019ca152314b0 Fix mismatch screen a bit. Should render more correctly now and at least not be blank in a lot of circumstances..
+	cpw: Allow items to decide if they can or cannot have book enchantments applied
+
+Build 1.5.1-7.7.0.602
+	cpw
+		Updated FML:
+		MinecraftForge/FML@d1ff1967b50f2ff2edf0b60acdb6508c0a3eeb06 Fixed FMLRelaunchLog's Newline Handling
+		MinecraftForge/FML@591a25722b36d2d1b200a31278cb8da117363f6b Merge pull request #208 from jrtc27/patch-1
+
+Build 1.5.1-7.7.0.601
+	cpw
+		Updated FML:
+		MinecraftForge/FML@f709ce757984b13acb7208d6d8fbdeaa83d2928d Fix missing block world rendering
+		MinecraftForge/FML@748eece456e079a21112a77047d004d4f410b170 Merge pull request #206 from mDiyo/patch-1
+		MinecraftForge/FML@012a755bb9ce9737c843b0dfd86473d143b637be Fix up patch properly. Also, fix md5s for the jars.
+
+Build 1.5.1-7.7.0.600
+	LexManos
+		Update to 1.5.1 Pre-Release:
+		MinecraftForge/FML@9565529baf77de27ed8b75be2065da3ba08d16c8 Updated to latest MCP and Minecraft 1.5.1 Pre-release.
+		MinecraftForge/FML@a573faf92def5dd01af380b3ca86de877c1178a2 Someone derped up this function bad, revert name.
+	LexManos: MinecraftForge/FML@aaf02ea2ac938d8cbaafdd2f59985c0604d648d7 Updated for new PR client jar.
+
+Build 1.5-7.7.0.598
+	LexManos
+		Updated FML:
+		MinecraftForge/FML@3c346247e1c5de12d4548f6a99349157057e2de6 Fix NPE with CoreMods who do not have the new MCVersion annotation.
+	LexManos
+		Updated FML:
+		MinecraftForge/FML@625da6492dddcaca8133718aeee97f9981ced623 Fix install.py --mcp-dir option. Fixes #204.
+		MinecraftForge/FML@687d3c059d054c338c25a489be206a9f3dc63d81 Merge pull request #204 from agaricusb/fix-mcpdir
+
+Build 1.5.1-7.7.0.597-1.5.1
+	LexManos: MinecraftForge/FML@aaf02ea2ac938d8cbaafdd2f59985c0604d648d7 Updated for new PR client jar.

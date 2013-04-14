@@ -1,0 +1,20 @@
+2013-04-14 09:07:41 [INFO] [ForgeModLoader] Forge Mod Loader version 5.1.8.611 for Minecraft 1.5.1 loading
+2013-04-14 09:07:41 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_09, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+2013-04-14 09:07:41 [FINE] [ForgeModLoader] Java classpath at launch is C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\eclipse\Minecraft\bin;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\jinput.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\lwjgl_util.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\lwjgl.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\minecraft.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\lib\argo-3.2-src.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\lib\bcprov-debug-jdk15on-148.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\lib\asm-debug-all-4.1.jar;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\lib\guava-14.0-rc3.jar
+2013-04-14 09:07:41 [FINE] [ForgeModLoader] Java library path at launch is C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\natives;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\natives;C:\Users\Toby\Documents\GitHub\CompositeMachines\forge\mcp\jars\bin\natives
+2013-04-14 09:07:41 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2013-04-14 09:07:41 [FINEST] [ForgeModLoader] All core mods are successfully located
+2013-04-14 09:07:41 [FINEST] [ForgeModLoader] Discovering coremods
+2013-04-14 09:07:41 [FINEST] [ForgeModLoader] Found library file argo-small-3.2.jar present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Found library file guava-14.0-rc3.jar present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Found library file asm-all-4.1.jar present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Found library file bcprov-jdk15on-148.jar present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Found library file deobfuscation_data_1.5.1.zip present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Found library file scala-library.jar present and correct in lib dir
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Running coremod plugins
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Validating minecraft
+2013-04-14 09:07:42 [FINEST] [ForgeModLoader] Minecraft validated, launching...
