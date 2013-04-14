@@ -27,11 +27,7 @@ import universalelectricity.prefab.block.BlockAdvanced;
 public class CMBasicMachine extends BlockAdvanced {
 
 	String texture1;
-	
-	public static final int COAL_GENERATOR_METADATA = 0;
-	public static final int BATTERY_BOX_METADATA = 4;
-	public static final int ELECTRIC_FURNACE_METADATA = 8;
-	
+
 	private Icon iconMachineSide;
 	private Icon iconInput;
 	private Icon iconOutput;
@@ -43,13 +39,7 @@ public class CMBasicMachine extends BlockAdvanced {
 		super(id, UniversalElectricity.machine);
 	}
 	
-	public Icon getBlockTextureFromSideAndMetadata(int par1, int par2)
-    {
-		System.out.println("Does this work?");
-		return par1 == 1 ? this.blockIcon : (par1 == 0 ? this.iconOilFabricator : (par1 != par2 ? this.iconMachineSide: this.iconOilFabricator));
-    }
-
-	
+	@Override
 	public void registerIcons(IconRegister par1IconRegister)
 	{
 		   this.blockIcon = par1IconRegister.registerIcon("archtikz:" + "machine");
@@ -59,29 +49,25 @@ public class CMBasicMachine extends BlockAdvanced {
 		   this.iconOilFabricator = par1IconRegister.registerIcon("archtikz:" + "oilFabricator");
 	}
 	
+	@Override
 	public Icon getIcon(int side, int metadata)
 	{
-		if (side == 0 || side == 1)
+		if (side == metadata + 2)
+		{
+			return this.iconOilFabricator;
+		}
+		else if (side == ForgeDirection.getOrientation(metadata + 2).getOpposite().ordinal())
+		{
+			return this.iconInput;
+		}
+		else if (side == 0 || side == 1)
 		{
 			return this.blockIcon;
 		}
-
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
+		else
 		{
-			metadata -= ELECTRIC_FURNACE_METADATA;
-
-			// If it is the front side
-			if (side == metadata + 2)
-			{
-				return this.iconOilFabricator;
-			}
-			// If it is the back side
-			else if (side == ForgeDirection.getOrientation(metadata + 2).getOpposite().ordinal())
-			{
-				return this.iconInput;
-			}
+			return this.iconMachineSide;
 		}
-		return this.iconMachineSide;
 	}
 
 	/**
@@ -92,10 +78,10 @@ public class CMBasicMachine extends BlockAdvanced {
 	{
 		int metadata = world.getBlockMetadata(x, y, z);
 
-		int angle = MathHelper.floor_double((entityLiving.rotationYaw * 4.0F / 360.0F) + 0.5D) & 3;
+		int side = MathHelper.floor_double((entityLiving.rotationYaw * 4.0F / 360.0F) + 0.5D) & 3;
 		int change = 0;
 
-		switch (angle)
+		switch (side)
 		{
 			case 0:
 				change = 1;
@@ -111,34 +97,7 @@ public class CMBasicMachine extends BlockAdvanced {
 				break;
 		}
 
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
-		{
-			world.setBlockMetadataWithNotify(x, y, z, ELECTRIC_FURNACE_METADATA + change, 3);
-		}
-		else if (metadata >= BATTERY_BOX_METADATA)
-		{
-			switch (angle)
-			{
-				case 0:
-					change = 3;
-					break;
-				case 1:
-					change = 1;
-					break;
-				case 2:
-					change = 2;
-					break;
-				case 3:
-					change = 0;
-					break;
-			}
-
-			world.setBlockMetadataWithNotify(x, y, z, BATTERY_BOX_METADATA + change, 3);
-		}
-		else
-		{
-			world.setBlockMetadataWithNotify(x, y, z, COAL_GENERATOR_METADATA + change, 3);
-		}
+		world.setBlockMetadataWithNotify(x, y, z, change, 3);
 	}
 
 	@Override
@@ -148,15 +107,6 @@ public class CMBasicMachine extends BlockAdvanced {
 		int original = metadata;
 
 		int change = 0;
-
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
-		{
-			original -= ELECTRIC_FURNACE_METADATA;
-		}
-		else if (metadata >= BATTERY_BOX_METADATA)
-		{
-			original -= BATTERY_BOX_METADATA;
-		}
 
 		// Re-orient the block
 		switch (original)
@@ -175,15 +125,6 @@ public class CMBasicMachine extends BlockAdvanced {
 				break;
 		}
 
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
-		{
-			change += ELECTRIC_FURNACE_METADATA;
-		}
-		else if (metadata >= BATTERY_BOX_METADATA)
-		{
-			change += BATTERY_BOX_METADATA;
-		}
-
 		par1World.setBlockMetadataWithNotify(x, y, z, change, 3);
 		return true;
 	}
@@ -198,21 +139,8 @@ public class CMBasicMachine extends BlockAdvanced {
 
 		if (!par1World.isRemote)
 		{
-			if (metadata >= ELECTRIC_FURNACE_METADATA)
-			{
-				par5EntityPlayer.openGui(BasicComponents.getFirstDependant(), 2, par1World, x, y, z);
-				return true;
-			}
-			else if (metadata >= BATTERY_BOX_METADATA)
-			{
-				par5EntityPlayer.openGui(BasicComponents.getFirstDependant(), 0, par1World, x, y, z);
-				return true;
-			}
-			else
-			{
-				par5EntityPlayer.openGui(BasicComponents.getFirstDependant(), 1, par1World, x, y, z);
-				return true;
-			}
+			par5EntityPlayer.openGui(BasicComponents.getFirstDependant(), 1, par1World, x, y, z);
+			return true;
 		}
 
 		return true;
@@ -233,80 +161,6 @@ public class CMBasicMachine extends BlockAdvanced {
 	@Override
 	public TileEntity createTileEntity(World world, int metadata)
 	{
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
-		{
-			return new TileEntityElectricFurnace();
-		}
-		else if (metadata >= BATTERY_BOX_METADATA)
-		{
-			return new TileEntityBatteryBox();
-		}
-		else
-		{
-			return new TileEntityCoalGenerator();
-		}
-
-	}
-
-	public ItemStack getCoalGenerator()
-	{
-		return new ItemStack(this.blockID, 1, COAL_GENERATOR_METADATA);
-	}
-
-	public ItemStack getBatteryBox()
-	{
-		return new ItemStack(this.blockID, 1, BATTERY_BOX_METADATA);
-	}
-
-	public ItemStack getElectricFurnace()
-	{
-		return new ItemStack(this.blockID, 1, ELECTRIC_FURNACE_METADATA);
-	}
-
-	@Override
-	public void getSubBlocks(int par1, CreativeTabs par2CreativeTabs, List par3List)
-	{
-		par3List.add(this.getCoalGenerator());
-		par3List.add(this.getBatteryBox());
-		par3List.add(this.getElectricFurnace());
-	}
-
-	@Override
-	public int damageDropped(int metadata)
-	{
-		if (metadata >= ELECTRIC_FURNACE_METADATA)
-		{
-			return ELECTRIC_FURNACE_METADATA;
-		}
-		else if (metadata >= BATTERY_BOX_METADATA)
-		{
-			return BATTERY_BOX_METADATA;
-		}
-		else
-		{
-			return COAL_GENERATOR_METADATA;
-		}
-	}
-
-	@Override
-	public ItemStack getPickBlock(MovingObjectPosition target, World world, int x, int y, int z)
-	{
-		int id = idPicked(world, x, y, z);
-
-		if (id == 0)
-		{
-			return null;
-		}
-
-		Item item = Item.itemsList[id];
-
-		if (item == null)
-		{
-			return null;
-		}
-
-		int metadata = getDamageValue(world, x, y, z);
-
-		return new ItemStack(id, 1, metadata);
+		return new TileEntityCoalGenerator();
 	}
 }
